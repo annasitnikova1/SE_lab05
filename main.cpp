@@ -1,3 +1,4 @@
+/* This is a training program*/
 #include <iostream>
 
 using namespace std;
